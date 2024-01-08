@@ -8,4 +8,4 @@ Checking push command from local
 
 Checking remote without commit
 
-
+Changed in test2 branch
