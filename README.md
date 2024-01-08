@@ -7,3 +7,5 @@ Checking pull command from remote
 Checking push command from local
 
 Checking remote without commit
+
+
