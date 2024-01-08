@@ -6,4 +6,4 @@ Checking pull command from remote
 
 Checking push command from local
 
-Checking pull command without commit
+Checking remote without commit
