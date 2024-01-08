@@ -5,3 +5,5 @@ Push and pull commands working successfully
 Checking pull command from remote
 
 Checking push command from local
+
+Checking pull command without commit
