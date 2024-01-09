@@ -11,3 +11,4 @@ Checking remote without commit
 Another change
 
 Changed in test2 branch
+Another change 1
