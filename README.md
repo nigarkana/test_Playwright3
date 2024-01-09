@@ -9,3 +9,5 @@ Checking push command from local
 Checking remote without commit
 
 Another change
+
+Changed in test2 branch
